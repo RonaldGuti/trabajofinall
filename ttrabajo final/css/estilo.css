@@ -1,0 +1,64 @@
+body{
+  background-color: azure;
+}
+
+#contenido{
+    width: 700px;
+height: 500px;
+float: left;
+
+}
+
+aside{
+    border: 1px solid rgb(65, 4, 4);
+  padding: 1px;
+  width: 400px;
+  height: 450px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: azure;
+  float:right;
+}
+.habili{
+    text-align: left;
+}
+.prem{
+    text-align: left;
+}
+footer{
+    padding-left: 100px;
+    clear: both;
+}
+
+nav{
+    padding-left: 100px;
+}
+article{
+    font-size: 13px;
+    padding-left: 100px;
+}   
+.phone-number {
+  text-align: left;
+}
+.correo{
+    text-align: center;
+}
+.dire{
+    text-align: right;
+}
+footer{
+    text-align: center; 
+}   
+.phone-number,
+.correo,
+.dire {
+display: inline-block;
+margin: 0 40px; 
+}
+#contactoWhatsapp{
+  width: 64px;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
+    
